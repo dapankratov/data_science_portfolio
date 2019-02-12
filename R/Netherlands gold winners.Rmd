@@ -32,7 +32,7 @@ mean_ages
 
 ## Plotting
 
-his plot shows the average age of sportsmen from the team of Netherlands who won gold medal for each sport
+This plot shows the average age of sportsmen from the team of Netherlands who won gold medal for each sport
 
 ```{r plot}
 # plot goes here
